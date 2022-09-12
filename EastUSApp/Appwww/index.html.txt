@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<article>
+  <header>
+    <h1>
+	<font color="blue">Hello !!!! EASTUS2 Application is up and running</font>
+    </h1>
+  </header>
+</article>
+
+</body>
+</html>
