@@ -5,7 +5,7 @@
 <article>
   <header>
     <h1>
-	<font color="blue">Hello !!!! EASTUS2 Application is up and running</font>
+	<font color="blue">Hello !!!! WestEurope Application is up and running</font>
     </h1>
   </header>
 </article>
