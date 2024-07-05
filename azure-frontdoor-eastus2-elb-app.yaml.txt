@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: azure-frontdoor-eastus2-app
-        image: phillipgibson/azure-frontdoor-eastus2-app
+        image: pradeepdevakumar/azure-frontdoor-eastus2-app
         ports:
         - containerPort: 80
 
